@@ -11,7 +11,6 @@ import wx
 import wx.xrc
 import requests
 from bs4 import BeautifulSoup as bs
-import lxml
 
 ###########################################################################
 ## Class MyFrame1
